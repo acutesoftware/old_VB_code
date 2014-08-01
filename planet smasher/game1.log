@@ -1,0 +1,94 @@
+Line 35: Class ActiveCandy.CandyCommand of control cmdSpeedUp was not a loaded control class.
+Line 63: Class ActiveCandy2.CandyFill of control fillSpeed was not a loaded control class.
+Line 86: Class ActiveCandy.CandySphere of control ball was not a loaded control class.
+Line 118: Class ActiveCandy.CandyCommand of control cmdScore was not a loaded control class.
+Line 146: Class ActiveCandy.CandyHCommand of control CandyHCommand2 was not a loaded control class.
+Line 174: Class ActiveCandy2.CandyPad of control CandyPad1 was not a loaded control class.
+Line 193: Class ActiveCandy.CandySphere of control planet was not a loaded control class.
+Line 220: Class ActiveCandy.CandySphere of control ball was not a loaded control class.
+Line 247: Class ActiveCandy.CandySphere of control ball was not a loaded control class.
+Line 272: Class ActiveCandy.CandySphere of control ball was not a loaded control class.
+Line 296: Class ActiveCandy.CandyCommand of control cmdSlowDown was not a loaded control class.
+Line 324: Class ActiveCandy.CandyHCommand of control CandyHCommand1 was not a loaded control class.
+Line 540: Class ActiveCandy.CandyScreen of control CandyScreen1 was not a loaded control class.
+Line 42: The property name _ExtentX in cmdSpeedUp is invalid.
+Line 43: The property name _ExtentY in cmdSpeedUp is invalid.
+Line 44: The property name BackPicture in cmdSpeedUp is invalid.
+Line 45: The property name Caption in cmdSpeedUp is invalid.
+Line 58: The property name HasShadow in cmdSpeedUp is invalid.
+Line 59: The property name PictureGoDown in cmdSpeedUp is invalid.
+Line 60: The property name UseSound in cmdSpeedUp is invalid.
+Line 61: The property name SoundMethod in cmdSpeedUp is invalid.
+Line 70: The property name _ExtentX in fillSpeed is invalid.
+Line 71: The property name _ExtentY in fillSpeed is invalid.
+Line 83: The property name CandyFill in fillSpeed is invalid.
+Line 84: The property name CaptionStyle in fillSpeed is invalid.
+Line 95: The property name _ExtentX in ball is invalid.
+Line 96: The property name _ExtentY in ball is invalid.
+Line 97: The property name SphereType in ball is invalid.
+Line 107: The property name IconSize in ball is invalid.
+Line 108: The property name PictureMode in ball is invalid.
+Line 109: The property name UseOnTop in ball is invalid.
+Line 110: The property name UseSound in ball is invalid.
+Line 125: The property name _ExtentX in cmdScore is invalid.
+Line 126: The property name _ExtentY in cmdScore is invalid.
+Line 127: The property name BackPicture in cmdScore is invalid.
+Line 128: The property name Caption in cmdScore is invalid.
+Line 142: The property name HasShadow in cmdScore is invalid.
+Line 143: The property name UseSound in cmdScore is invalid.
+Line 144: The property name SoundMethod in cmdScore is invalid.
+Line 153: The property name _ExtentX in CandyHCommand2 is invalid.
+Line 154: The property name _ExtentY in CandyHCommand2 is invalid.
+Line 168: The property name Caption in CandyHCommand2 is invalid.
+Line 169: The property name FocusColor in CandyHCommand2 is invalid.
+Line 170: The property name UseAnimation in CandyHCommand2 is invalid.
+Line 171: The property name UseOnTop in CandyHCommand2 is invalid.
+Line 172: The property name SoundMethod in CandyHCommand2 is invalid.
+Line 180: The property name _ExtentX in CandyPad1 is invalid.
+Line 181: The property name _ExtentY in CandyPad1 is invalid.
+Line 191: The property name UseDirectionShortKeys in CandyPad1 is invalid.
+Line 202: The property name _ExtentX in planet is invalid.
+Line 203: The property name _ExtentY in planet is invalid.
+Line 204: The property name SphereType in planet is invalid.
+Line 214: The property name IconSize in planet is invalid.
+Line 215: The property name FocusColor in planet is invalid.
+Line 216: The property name PictureMode in planet is invalid.
+Line 217: The property name UseSound in planet is invalid.
+Line 218: The property name SoundMethod in planet is invalid.
+Line 230: The property name _ExtentX in ball is invalid.
+Line 231: The property name _ExtentY in ball is invalid.
+Line 232: The property name ContentType in ball is invalid.
+Line 242: The property name IconSize in ball is invalid.
+Line 243: The property name PictureMode in ball is invalid.
+Line 244: The property name UseSound in ball is invalid.
+Line 245: The property name SoundMethod in ball is invalid.
+Line 256: The property name _ExtentX in ball is invalid.
+Line 257: The property name _ExtentY in ball is invalid.
+Line 258: The property name SphereType in ball is invalid.
+Line 268: The property name IconSize in ball is invalid.
+Line 269: The property name PictureMode in ball is invalid.
+Line 270: The property name UseSound in ball is invalid.
+Line 281: The property name _ExtentX in ball is invalid.
+Line 282: The property name _ExtentY in ball is invalid.
+Line 283: The property name SphereType in ball is invalid.
+Line 293: The property name PictureMode in ball is invalid.
+Line 294: The property name UseSound in ball is invalid.
+Line 303: The property name _ExtentX in cmdSlowDown is invalid.
+Line 304: The property name _ExtentY in cmdSlowDown is invalid.
+Line 305: The property name BackPicture in cmdSlowDown is invalid.
+Line 306: The property name Caption in cmdSlowDown is invalid.
+Line 319: The property name HasShadow in cmdSlowDown is invalid.
+Line 320: The property name PictureGoDown in cmdSlowDown is invalid.
+Line 321: The property name UseSound in cmdSlowDown is invalid.
+Line 322: The property name SoundMethod in cmdSlowDown is invalid.
+Line 331: The property name _ExtentX in CandyHCommand1 is invalid.
+Line 332: The property name _ExtentY in CandyHCommand1 is invalid.
+Line 346: The property name Caption in CandyHCommand1 is invalid.
+Line 347: The property name FocusColor in CandyHCommand1 is invalid.
+Line 348: The property name UseAnimation in CandyHCommand1 is invalid.
+Line 349: The property name UseOnTop in CandyHCommand1 is invalid.
+Line 350: The property name SoundMethod in CandyHCommand1 is invalid.
+Line 545: The property name _ExtentX in CandyScreen1 is invalid.
+Line 546: The property name _ExtentY in CandyScreen1 is invalid.
+Line 548: The property name ScreenType in CandyScreen1 is invalid.
+Line 540: Property MouseIcon in CandyScreen1 could not be set.

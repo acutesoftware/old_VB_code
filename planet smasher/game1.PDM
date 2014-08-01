@@ -1,0 +1,125 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\dev\src\vb6\games\planet smasher\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\SYS\WINDOWS\SYSTEM\ActCndy2.ocx=
+C:\SYS\WINDOWS\SYSTEM\ActCndy3.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\SYS\WINDOWS\SYSTEM\COMCT332.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\dev\src\vb6\games\expols3.wav=
+c:\dev\src\vb6\games\welcome to planet smasher.wav=
+C:\dev\src\vb6\games\planet smasher\103_comin.wav=
+C:\dev\src\vb6\games\planet smasher\kickass.wav=
+C:\dev\src\vb6\games\planet smasher\hit1.wav=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\dev\src\vb6\games\planet smasher\game1.exe=Yes
+C:\SYS\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\SYS\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\SYS\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\SYS\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\SYS\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\dev\tools\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\SYS\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\SYS\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\SYS\WINDOWS\SYSTEM\MCI32.OCX=Yes
+C:\SYS\WINDOWS\SYSTEM\PICCLP32.OCX=Yes
+C:\SYS\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\SYS\WINDOWS\SYSTEM\ActCndy3.ocx=Yes
+C:\SYS\WINDOWS\SYSTEM\ActCndy2.ocx=Yes
+C:\dev\tools\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\dev\tools\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\SYS\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\dev\tools\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\dev\src\vb6\games\expols3.wav=Yes
+C:\dev\src\vb6\games\welcome to planet smasher.wav=Yes
+C:\dev\src\vb6\games\planet smasher\103_comin.wav=Yes
+C:\dev\src\vb6\games\planet smasher\kickass.wav=Yes
+C:\dev\src\vb6\games\planet smasher\hit1.wav=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\dev\src\vb6\games\planet smasher\game1.exe=$(AppPath)
+C:\SYS\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\SYS\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\SYS\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\SYS\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\SYS\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\dev\tools\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\SYS\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\SYS\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\SYS\WINDOWS\SYSTEM\MCI32.OCX=$(WinSysPath)
+C:\SYS\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\SYS\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\SYS\WINDOWS\SYSTEM\ActCndy3.ocx=$(WinSysPath)
+C:\SYS\WINDOWS\SYSTEM\ActCndy2.ocx=$(WinSysPath)
+C:\dev\tools\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\dev\tools\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\SYS\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\dev\tools\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\dev\src\vb6\games\expols3.wav=$(AppPath)
+C:\dev\src\vb6\games\welcome to planet smasher.wav=$(AppPath)
+C:\dev\src\vb6\games\planet smasher\103_comin.wav=$(AppPath)
+C:\dev\src\vb6\games\planet smasher\kickass.wav=$(AppPath)
+C:\dev\src\vb6\games\planet smasher\hit1.wav=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\dev\src\vb6\games\planet smasher\game1.exe=No
+C:\dev\src\vb6\games\expols3.wav=No
+C:\dev\src\vb6\games\welcome to planet smasher.wav=No
+C:\dev\src\vb6\games\planet smasher\103_comin.wav=No
+C:\dev\src\vb6\games\planet smasher\kickass.wav=No
+C:\dev\src\vb6\games\planet smasher\hit1.wav=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Planet Smasher
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\dev\src\vb6\games\planet smasher\Package
+ProjectFolder=C:\dev\src\vb6\games\planet smasher
+ServerSideCab=
+File1=C:\dev\src\vb6\games\planet smasher\Package\setup.exe
+File2=C:\dev\src\vb6\games\planet smasher\Package\Setup.Lst
+File3=C:\dev\src\vb6\games\planet smasher\Package\game1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Planet Smasher
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Planet Smasher]
+Icon1=game1.exe
+Title1=Planet Smasher
+StartIn1=$(AppPath)
+Key1=Icon1
